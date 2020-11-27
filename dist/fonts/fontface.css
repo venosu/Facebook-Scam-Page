@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Freight Sans Medium';
+    src: url('FreightSansW01Medium.woff') format('woff');
+    src: url('FreightSansMedium.otf') format('otf');
+  }
+  
+  @font-face {
+    font-family: 'Freight Sans Bold';
+    src: url('kk.otf');  
+  }
